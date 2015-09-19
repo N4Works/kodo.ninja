@@ -11,7 +11,7 @@
 
 ## Artigos sendo escritos
 - Javascript – Web Workers ao resgate!
-- Angular2 – Trabalhando com eventos [Parte 1]
-- Entendendo o tão temido Event Loop
+- Angular2 – Trabalhando com eventos - Parte 2
+- Javascript - Entendendo o tão temido Event Loop
 - Mobile First
 - ExpressJS para iniciantes
