@@ -1,5 +1,9 @@
 # kodo.ninja
 
+## Vídeos publicados
+
+- Gulp + Babel · [Vídeo](Gulp + Babel | Criando uma aplicação Javascript simples) · [Repositório](https://github.com/kodo-ninja/gulp_babel)
+
 ## Artigos publicados
 - Git para iniciantes · [Artigo](http://kodo.ninja/git-iniciante/)
 - NodeJS para iniciantes · [Artigo](http://kodo.ninja/nodejs-iniciante/)
